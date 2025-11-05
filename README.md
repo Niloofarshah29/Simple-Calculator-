@@ -1,5 +1,5 @@
 # Simple-Calculator-
-m repo repo
+my repo repo
 function add(a, b) {
   return a + b;
 }
