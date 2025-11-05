@@ -1,6 +1,6 @@
 # Simple-Calculator-
 my repo repo
-function ad(a, b) {
+function add(a, b) {
   return a + b;
 }
 
